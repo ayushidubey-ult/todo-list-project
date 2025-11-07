@@ -1,6 +1,6 @@
 # todo-list-project (Full Stack Project)
 
-A full stack To-Do List web application
+A full stack todo-list web application
 
  built using **Node.js**, **Express**,
  
